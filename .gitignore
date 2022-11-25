@@ -3,9 +3,11 @@
 /server/.env
 /server/dist
 /server/Dockerfile
+/server/.dockerignore
 
 /client/node_modules
 /client/package-lock.json
 /client/Dockerfile
 /client/build
 /client/.env
+/client/.dockerignore
