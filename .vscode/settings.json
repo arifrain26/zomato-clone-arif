@@ -1,0 +1,20 @@
+{
+    "git.ignoreLimitWarning": true,
+    "tailwindCSS.emmetCompletions": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": true
+    },
+    "css.validate": false,
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html",
+        "javascript":"js",
+        "react":"jsx"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
